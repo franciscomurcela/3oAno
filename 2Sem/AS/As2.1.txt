@@ -1,0 +1,11 @@
+O sistema representado é uma loja online que possui os seguintes use cases: View Items; Make Purchase; Checkout e Client Register. 
+
+- O use case "Client Register" é usado por clientes novos (sem registo prévio), estes interagem com o ator Authentication (serviço) para fazer a sua autenticação. 
+
+- O use case "Make Purchase" só tem como ator um cliente registado. Ou seja, somente um cliente registado pode fazer uma compra.
+
+- Ambos os use cases "View Items" e "Checkout" estão incluídos no use case "Make Purchase", para fazer uma compra o utilizador terá de ver items e de fazer o Checkout.
+
+- O "View Items" tem como atores os Web Costumers (clientes registados e não registados), o Authentication e o Identity Provider. Para ver Items, o cliente terá de ser identificado.
+
+- Por fim o "Checkout" possui o Authentication, o Identity Provider, o Credit Payment Service e o PayPal. Portanto, a identidade do cliente e os métodos de compra são requeridos para concluir a compra.

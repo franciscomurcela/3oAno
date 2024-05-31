@@ -1,0 +1,16 @@
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\bin\Debug\net8.0-windows\Aula1BD.exe
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\bin\Debug\net8.0-windows\Aula1BD.deps.json
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\bin\Debug\net8.0-windows\Aula1BD.runtimeconfig.json
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\bin\Debug\net8.0-windows\Aula1BD.dll
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\bin\Debug\net8.0-windows\Aula1BD.pdb
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.Form1.resources
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.AssemblyInfo.cs
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.dll
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\refint\Aula1BD.dll
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.pdb
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\Aula1BD.genruntimeconfig.cache
+C:\Users\Asus\Documents\Disciplinas\3Ano\2Sem\BD\vs\Aula1BD\Aula1BD\obj\Debug\net8.0-windows\ref\Aula1BD.dll

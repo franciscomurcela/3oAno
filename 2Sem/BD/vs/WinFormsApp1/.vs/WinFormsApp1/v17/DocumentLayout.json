@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9231D662-B7D6-4F41-92B5-40B4B634BC03}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\documents\\disciplinas\\3ano\\2sem\\bd\\vs\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9231D662-B7D6-4F41-92B5-40B4B634BC03}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9231D662-B7D6-4F41-92B5-40B4B634BC03}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\asus\\documents\\disciplinas\\3ano\\2sem\\bd\\vs\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9231D662-B7D6-4F41-92B5-40B4B634BC03}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:10:17.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\WinFormsApp1\\WinFormsApp1\\Form1.cs [Projeto]",
+              "RelativeToolTip": "WinFormsApp1\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:08:53.238Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

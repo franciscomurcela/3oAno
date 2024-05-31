@@ -1,0 +1,16 @@
+meter opçoes para agendar, consultar, etc.. e a partir de ai em cada opçao meter as vacinas, exames, prescriçoes, consultas, de forma a quando clicarmos por exemplo em agendar podemos escolher agendar uma consulta ou vacinas, etc...
+
+
+Meter titulo na home page e os eventos/calendarios
+
+slots canton inferior esquerdo-tirar(pop-up)
+
+eventos no perfil
+notificaçoes hospital
+pop ups dos eventos
+opçao das notificaçoes
+opçao de noticias
+
+eventos destacados
+eventos do mes a esquerda
+eventos gerais a direita

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|c:\\users\\asus\\documents\\disciplinas\\3ano\\2sem\\bd\\vs\\aula1bd\\aula1bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|solutionrelative:aula1bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|c:\\users\\asus\\documents\\disciplinas\\3ano\\2sem\\bd\\vs\\aula1bd\\aula1bd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|solutionrelative:aula1bd\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|c:\\users\\asus\\documents\\disciplinas\\3ano\\2sem\\bd\\vs\\aula1bd\\aula1bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F866D49E-C2D8-4F8A-8B66-8C9B529B5130}|Aula1BD\\Aula1BD.csproj|solutionrelative:aula1bd\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula1BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.cs*",
+              "RelativeToolTip": "Aula1BD\\Form1.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:20:46.82Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Aula1BD\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.Designer.cs*",
+              "RelativeToolTip": "Aula1BD\\Form1.Designer.cs*",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAAEwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:55:26.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.cs",
+              "RelativeDocumentMoniker": "Aula1BD\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\Disciplinas\\3Ano\\2Sem\\BD\\vs\\Aula1BD\\Aula1BD\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "Aula1BD\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:44:58.947Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

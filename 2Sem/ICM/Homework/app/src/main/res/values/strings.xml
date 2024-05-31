@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="Titulo">Inserir filme/série</string>
+    <string name="Nome_filme">Nome</string>
+</resources>
